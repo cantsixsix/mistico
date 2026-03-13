@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "app.netlify.dainty_alfajores_b56885.twa",
+        "sha256_cert_fingerprints": ["70:34:78:9E:FA:20:B3:6B:22:4C:31:28:DE:3C:86:4C:37:26:C5:FD:3A:C0:6C:62:96:D9:F5:3F:CA:37:65:9E"]
+      }
+    }]
